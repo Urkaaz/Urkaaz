@@ -2,7 +2,7 @@
 
 
 
-Salut ![image](https://user-images.githubusercontent.com/85438965/185787928-3529910f-37a0-4e41-9cd0-f4dc2c4134fd.png), je suis Urkaaz
+Salut, je suis Urkaaz
 
 
 Je suis passioné par le monde du développement Web & FiveM ! 
@@ -11,6 +11,8 @@ Je suis passioné par le monde du développement Web & FiveM !
 
 
 🙋‍♂️ À propos de moi
+
+
 
 🚀 Créateur de MyLeaks
 
