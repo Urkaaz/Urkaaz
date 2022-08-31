@@ -5,7 +5,7 @@
 Salut, je suis Urkaaz
 
 
-Je suis passioné par le monde du développement Web & FiveM ! 
+Je suis passioné par le monde du développement ! 
 
 ![image](https://user-images.githubusercontent.com/85438965/185787984-861a4fbe-b20b-4aea-9bb5-52a0946c865d.png)
 
@@ -14,7 +14,7 @@ Je suis passioné par le monde du développement Web & FiveM !
 
 
 
-🚀 Créateur de MyLeaks
+🚀 Créateur de RyzeDev
 
 💻 Passioné par le développement
 
