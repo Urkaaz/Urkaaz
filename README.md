@@ -14,10 +14,10 @@ Je suis passioné par le monde du développement !
 
 
 
-🚀 Créateur de RyzeDev
+🚀 Helpeur sur TwistGen
 
 💻 Passioné par le développement
 
-👯 Créateur de YXS Records 
+👯 HTML, PHP, CSS, C++, C#
 
 ![image](https://user-images.githubusercontent.com/85438965/185787988-7640c1c1-4ce7-417c-9dfa-38095efee707.png)
